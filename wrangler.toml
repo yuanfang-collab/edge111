@@ -1,4 +1,5 @@
-name = "edge111"
+name = "# wrangler.toml
+name = 'bake9'"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
